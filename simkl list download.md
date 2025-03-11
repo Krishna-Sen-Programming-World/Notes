@@ -1,4 +1,4 @@
-### Steps to Anime List drom Simkl and Save as a File:
+# Steps to Download Simkl List and Save it as a CSV File:
 
 #### Step 1: Go to https://simkl.com/{your_id}/anime/
 - Replace `{your_id}` with your actual Simkl user ID.
