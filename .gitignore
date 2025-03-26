@@ -1,1 +1,2 @@
-.password
+# Ignore the password file
+.password.md
