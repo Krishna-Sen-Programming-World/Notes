@@ -5,10 +5,9 @@
 
 #### Step 2: Sign Up or Use Temporary Account on TeraBox
 - Go to [TeraBox](https://www.1024terabox.com/) and sign up for an account, or use the temporary email to create an account.
-- Example: `josoja2259@amgens.com` and password `Qwert!2345`
 - Example:  
   - **Email**: `josoja2259@amgens.com`  
-  - **Password**: `******`  (Password hidden for privacy)
+  - **Password**: `**********`  (Password hidden for privacy)
 
 #### Step 3: Save the File to Your TeraBox Account
 - Once logged into your TeraBox account, click `Save to TeraBox`, choose the desired path, and click `Yes`.
@@ -22,3 +21,4 @@
 #### Step 6: Download the File
 - Visit an online TeraBox downloader, like [TeraDownloaders](https://teradownloaders.com).
 - Paste the copied link into the downloader and download the file.
+Qwert!2345
