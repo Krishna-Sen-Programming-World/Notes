@@ -55,7 +55,7 @@
    - **Insert Cover Page and Generate Table of Contents (Adds a cover page and auto generates a TOC)**
 
 4. After selecting your formatting options, click the **Format Magic** button to apply the formatting.
-5. **Important Warning:** **Be careful!** Paste the content (copied from either Obsidian or DocsToMarkdown) into the **live preview portion** before `5️⃣Create your document` segment The live preview is where the formatted content will appear, and it's essential to paste it here to bypass word limitation for output.
+5. **Important Warning:** **Be careful!** Paste the content (copied from either Obsidian or DocsToMarkdown) into the **live preview portion** before `5️⃣Create your document` segment. The live preview is where the formatted content will appear, and it's essential to paste it here to bypass word limitation for output.
 6. Make any necessary changes to the document.
 7. Click **Create PDF** to download the formatted PDF file.
 
